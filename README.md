@@ -1,1 +1,1 @@
-# Swagatam-Restaurant
+# Restaurant
